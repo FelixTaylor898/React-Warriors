@@ -1,4 +1,5 @@
 {
-    "colors":["ginger", "gray", "black", "brown", "white", "tortoiseshell"],
-    "shades":["", "dark ", "pale "]
+    "colors":["ginger", "gray", "black", "brown", "white", "tortoiseshell", "fawn", "gold", "chocolate", "cinnamon", "lilac", "sienna", "silver"],
+    "shades":["", "dark ", "pale ", "light "],
+    "pattern":["tabby", "rosette", "mackerel", "marbled","speckled","bengal","smoke","ticked","classic","sokoke","striped"]
 }

@@ -76,7 +76,7 @@ export function generateCat(role) {
     if (cat.fur !== "white") {
         if (cat.fur !== "black") cat.fur = f.shades[Math.floor(Math.random() * f.shades.length)].concat(cat.fur);
         if (Math.random() < 0.5) cat.fur = cat.fur.concat("-and-white");
-        if (Math.random() < 0.5) cat.fur = cat.fur.concat(" tabby");
+        if (Math.random() < 0.5) cat.fur = cat.fur.concat(" " + f.pattern[Math.floor(Math.random() * f.pattern.length)]);
     }
     if (!suffix) do {
         suffix = s[Math.floor(Math.random() * s.length)];
