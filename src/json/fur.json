@@ -1,5 +1,5 @@
 {
-    "colors":["ginger", "gray", "black", "brown", "white", "tortoiseshell", "fawn", "gold", "chocolate", "cinnamon", "lilac", "sienna", "silver"],
-    "shades":["", "dark ", "pale ", "light "],
-    "pattern":["tabby", "rosette", "mackerel", "marbled","speckled","bengal","smoke","ticked","classic","sokoke","striped"]
+    "colors":["ginger", "gray", "tawny", "auburn", "black", "brown", "white", "tortoiseshell", "fawn", "gold", "chocolate", "cinnamon", "lilac", "sienna", "silver","beige"],
+    "shades":["", "dark ", "pale ", "light ", "bright ", "dull "],
+    "pattern":["tabby", "rosette", "mackerel", "marbled","speckled","bengal","smoke","ticked","classic","sokoke","striped", "spotted", "dappled"]
 }
